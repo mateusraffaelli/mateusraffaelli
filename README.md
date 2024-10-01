@@ -1,3 +1,6 @@
+# 👋 Hi there, welcome to my Github profile
+My name is Mateus Raffaelli and i'm JavaScritp Desenvolver from Florianópolis, Brazil &#x1F1E7
+
 # 💫 About Me:
 🔭 Hoje trabalho com front-end<br>👯 Estou a procura de um Estágio<br>🌱 Estudando JavaScript
 
