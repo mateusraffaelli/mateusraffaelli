@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Meu nome é Mateus Raffaelli e sou de Florianópolis, Brazil<br> 🔭 Hoje trabalho com front-end<br>👯 Estou a procura de um Estágio<br>🌱 Estudando JavaScript</p>
+<p align="left">👨‍🎓 My name is Mateus Raffaelli and I'm from Florianópolis, Brazil<br> 🔭 I work as a front-end developer<br>👯 I'm looking for an Internship<br>🌱 I'm delving into JavaScript</p>
 
 ###
 
